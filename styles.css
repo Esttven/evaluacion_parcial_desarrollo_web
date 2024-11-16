@@ -28,6 +28,7 @@
 #bottom {
     font-size: 40px;
     align-self: flex-end;
+    rotate: 180deg;
 }
 
 .a {
